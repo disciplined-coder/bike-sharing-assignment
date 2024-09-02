@@ -25,7 +25,6 @@ Following are the significant variables to predict the demand for bike sharing
 - weathersit (3-light_rain, 2-mist)
 - mnth(9-sep)
 - weekday(0-sun)
-- 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
